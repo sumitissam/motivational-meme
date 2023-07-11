@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+body {
+    background-color: black;
+}
+div {
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    
+}
+img {
+    border: 5px solid white;
+    width: 100%;
+}
+p {
+    text-align: center;
+    text-transform: capitalize;
+}
